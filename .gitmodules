@@ -1,0 +1,6 @@
+[submodule "foundations-course/odin-project-landing-page"]
+	path = foundations-course/odin-project-landing-page
+	url = https://github.com/Matthew-Oj/odin-project-landing-page.git
+[submodule "foundations-course/odin-project-recipes"]
+	path = foundations-course/odin-project-recipes
+	url = https://github.com/Matthew-Oj/odin-project-recipes.git

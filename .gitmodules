@@ -4,3 +4,6 @@
 [submodule "foundations-course/odin-project-recipes"]
 	path = foundations-course/odin-project-recipes
 	url = https://github.com/Matthew-Oj/odin-project-recipes.git
+[submodule "foundations-course/odin-project-rock-paper-scissors"]
+	path = foundations-course/odin-project-rock-paper-scissors
+	url = https://github.com/Matthew-Oj/odin-project-rock-paper-scissors.git

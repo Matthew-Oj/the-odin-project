@@ -7,3 +7,6 @@
 [submodule "foundations-course/odin-project-rock-paper-scissors"]
 	path = foundations-course/odin-project-rock-paper-scissors
 	url = https://github.com/Matthew-Oj/odin-project-rock-paper-scissors.git
+[submodule "foundations-course/odin-project-etch-a-sketch"]
+	path = foundations-course/odin-project-etch-a-sketch
+	url = https://github.com/Matthew-Oj/odin-project-etch-a-sketch.git
